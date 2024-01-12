@@ -27,7 +27,7 @@ Contributions and feedback are welcome! Join us in improving global awareness an
 
 ## Demo:
 
-[Explore the Dashboard] [https://public.tableau.com/app/profile/sanjiban.dey/viz/COVID-19GlobalVaccineTracker_17050850955190/GlobalVaccineTracker]
+Explore the Dashboard: [https://public.tableau.com/app/profile/sanjiban.dey/viz/COVID-19GlobalVaccineTracker_17050850955190/GlobalVaccineTracker]
 
 
 🌍💉 #covid19 #vaccinetracker #tableau #datavisualization
